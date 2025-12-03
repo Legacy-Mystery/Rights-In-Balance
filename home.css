@@ -1,0 +1,16 @@
+body {background: #000000;}
+h1 {font-weight: bold;color: #ffffff;text-align: center;}
+.author {background: linear-gradient(to right, #c10000, #c18e00);text-align: center;padding: 60px 20px;color: #000000;}
+.purpose {background: linear-gradient(to right, #c1c100, #00c100);text-align: center;padding: 60px 20px;color: #000000;}
+.snapshot {background: linear-gradient(to right, #0000c1, #c100c1);text-align: center;padding: 60px 20px;color: #000000;}
+table {font-weight: bold}
+table {width: 100%;border-collapse: collapse;background-color: rgba(242, 242, 242, 0.5);}
+th, td { border: 5px solid black;padding: 8px;text-align: left;}
+.arcanum {width: 25%; height: 200px}
+.links {background: linear-gradient(to right, #c10085, #c1c1c1);text-align: center;padding: 60px 20px;color: #000000;font-weight: bold;border-radius: 50px}
+a {color: black}
+ul{list-style-position: inside;}
+nav {display: flex;justify-content: center;padding: 10px 0;}
+nav a {text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #bebebe;border-style: solid;border-color: #000000;border-radius: 50px}
+href {text-align: center}
+ul {list-style-position: inside; text-align: center}
