@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="home.css">
+  </head>
+  <body>
+    
+    <img src="Arcanum-Back-Cover.png" alt="Image description" class="arcanum"/><img src="Arcanum-Back-Cover.png" alt="Image description" class="arcanum"/><img src="Arcanum-Back-Cover.png" alt="Image description" class="arcanum"/><img src="Arcanum-Back-Cover.png" alt="Image description" class="arcanum"/>
+    <h1>Meet The Author and Portfolio</h1>
+    <section class="author">
+    <h2>Meet the Author</h2>
+    <p>Hello! My name is TrevorJay Andrews. I am a undergraduate student at USC Sumter, in Dr. Wallace's English 101 class. My work focuses on the intersection of law, culture, and civil rights, driven by a commitment to ensuring that institutional support is actively affirming, not just passively tolerant, of all students. As someone who has witnessed the tensions between belief and belonging firsthand, my research aims to find concrete solutions to deeply ingrained problems in conservative regions.</p>
+    </section>
+    <br>
+    <section class="purpose">
+      <h2>Portfolio's Purpose</h2>
+      <p>The aim of this portfolio is to thoroughly examine the escalating clash of religious freedom versus LGBTQ+ rights in the USA, and in the end to support local, structural solutions that respect and protect human dignity. The main point made is that religious freedom is a guaranteed right, but at the same time, its claiming should not be allowed to cover up discrimination, which is not clear-cut where faith-based advocacy is and harm to structure is done. This paper investigates the ways in which legal safeguards and the way issues are presented can accidentally legitimize exclusionary practices if such practices are dressed in the cloak of moral concern.</p>
+    </section>
+    <br>
+    <section class="snapshot">
+      <h2>Project Texts: A Snapshot</h2>
+      
+      <table>
+        <tr>
+          <th>Religious Rights VS LGBT Rights</th>
+          <th>Annotated Bibliography</th>
+          <th>Bridging Belief and Belonging: LGBTQ+ Support in Religious Regions</th>
+        </tr>
+        <tr>
+          <td>Genre: Argumentative Essay</td>
+          <td>Genre: Academic Bibliography</td>
+          <td>Genre: Grant Proposal</td>
+        </tr>
+        <tr>
+          <td>Primary Focus: Historical context and analysis of how the First Amendment and the Religious Freedom Restoration Act (RFRA) are used to legally shield discrimination.</td>
+          <td>Primary Focus: In-depth analysis of four scholarly sources addressing legal and cultural tensions between religious and LGBTQ+ rights.</td>
+          <td>Primary Focus:Proposing the establishment of a dedicated LGBTQ+ resource office and inclusive programming at a two-year college in South Carolina. </td>
+        </tr>
+        <tr>
+          <td>Key Takeaway: States like South Carolina lack essential anti-discrimination laws and conversion therapy bans, highlighting a critical need for federal and local policy change to curb this issue.</td>
+          <td>Key Takeaway: Religious arguments are often framed as promoting societal health to justify policies that can marginalize LGBTQ+ individuals, a technique that courts sometimes struggle to differentiate from discriminatory intent.</td>
+          <td>Key Takeaway: States like South Carolina lack essential anti-discrimination laws and conversion therapy bans, highlighting a critical need for federal and local policy change to curb this issue.</td>
+        </tr>
+      </table>
+    </section>
+    <br>
+    <nav>
+    <section class="links">
+      <ul>
+        <li><a href="persuasive.html">Religious Rights VS LGBT Rights</a></li><br>
+        <li><a href="annotated.html">Annotated Bibliography	</a></li><br>
+      <li><a href="grant_proposal.html">Bridging Belief and Belonging: LGBTQ+ Support in Religious Regions</a></li><br>
+        <li><a href="reflection.html">Reflections</a></li>
+        </ul>
+    </section>
+    </nav>
+  </body>
+</html>
