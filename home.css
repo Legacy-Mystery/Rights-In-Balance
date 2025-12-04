@@ -7,7 +7,7 @@ p{font-weight: bold}
 table {font-weight: bold}
 table {width: 100%;border-collapse: collapse;background-color: rgba(242, 242, 242, 0.5);}
 th, td { border: 5px solid black;padding: 8px;text-align: left;}
-.arcanum {width: 25%; height: 200px}
+img {width: 25%; height: 200px}
 .links {background: linear-gradient(to right, #c10085, #c1c1c1);text-align: center;padding: 60px 20px;color: #000000;font-weight: bold;border-radius: 50px}
 a {color: black}
 ul{list-style-position: inside;}
