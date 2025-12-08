@@ -5,7 +5,7 @@ p{font-weight: bold}
 .purpose {background: linear-gradient(to right, #c1c100, #00c100);text-align: center;padding: 60px 20px;color: #000000;}
 .snapshot {background: linear-gradient(to right, #0000c1, #c100c1);text-align: center;padding: 60px 20px;color: #000000;}
 table {font-weight: bold}
-table {max-width: 100%;width: 100%;height: auto;border-collapse: collapse;background-color: rgba(242, 242, 242, 0.5);text-align:center;}
+table {max-width: 75%;width: 100%;height: auto;border-collapse: collapse;background-color: rgba(242, 242, 242, 0.5);text-align:center;}
 th, td { border: 5px solid black;padding: 8px;text-align: left;}
 img {width: 25%; height: 200px}
 .links {background: linear-gradient(to right, #c10085, #c1c1c1);text-align: center;padding: 60px 20px;color: #000000;font-weight: bold;border-radius: 50px}
